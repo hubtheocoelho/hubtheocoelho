@@ -1,16 +1,13 @@
 <div align="center">
 
 # Theo Coêlho
+` AI Engineer · Spec Author · Open Source `
 
-ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheocoelho.com)
+<a href="https://hubtheocoelho.com"><img src="https://img.shields.io/badge/-EXPLORAR%20HUB-0d1117?style=flat-square&logo=linktree&logoColor=8B949E&color=0d1117" height="20" /></a>
+<a href="https://github.com/hubtheocoelho?tab=followers"><img src="https://img.shields.io/github/followers/hubtheocoelho?label=followers&style=flat-square&color=8B949E&labelColor=0d1117&logo=github&logoColor=8B949E" height="20" /></a>
+<a href="https://github.com/hubtheocoelho"><img src="https://img.shields.io/github/stars/hubtheocoelho?label=stars&style=flat-square&color=8B949E&labelColor=0d1117&logo=github&logoColor=8B949E" height="20" /></a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=qualifying+commits+for+the+agent+era;building+AI+infrastructure+%E2%80%94+protocols+%2B+tooling;open-source+at+hubtheocoelho.com)](https://github.com/hubtheocoelho)
-
-<br>
-
-[![Website](https://img.shields.io/badge/hubtheocoelho.com-0d1117?style=flat-square&logo=safari&logoColor=8B949E)](https://hubtheocoelho.com)
-[![GitHub followers](https://img.shields.io/github/followers/hubtheocoelho?label=followers&style=flat-square&color=8B949E&labelColor=0d1117&logo=github&logoColor=8B949E)](https://github.com/hubtheocoelho?tab=followers)
-[![GitHub User's stars](https://img.shields.io/github/stars/hubtheocoelho?label=stars&style=flat-square&color=8B949E&labelColor=0d1117&logo=github&logoColor=8B949E)](https://github.com/hubtheocoelho)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=880&height=30&lines=Espec+QAC+%C2%B7+Commits+rastre%C3%A1veis+e+economia+de+contexto+%C2%B7+Agent%E2%80%93Native;Orquestra%C3%A7%C3%A3o+%C2%B7+Fluxos+aut%C3%B4nomos+com+governan%C3%A7a+%C2%B7+Agentic+Systems;MCP+Mediator+%C2%B7+Server%E2%80%93side+logic+e+workflows+determin%C3%ADsticos+%C2%B7+AI+Middleware;Quality+Enablement+%C2%B7+Shift%E2%80%93left+e+RAG%E2%80%93ready+documentation+%C2%B7+AI+Governance;Infra+de+IA+%C2%B7+Engenharia+de+ecossistemas+e+guardrails+%C2%B7+AI+Scalability)](https://github.com/hubtheocoelho)
 
 </div>
 
@@ -122,4 +119,11 @@ I design and build infrastructure for AI agents — protocols, orchestration, an
 
 <div align="center">
   <sub><code>commits qualificados sob <a href="https://github.com/hubtheocoelho/qac-spec">QAC</a></code></sub>
+</div>
+
+<div align="center">
+  <br />
+  <a href="https://hubtheocoelho.com">
+    <img src="https://img.shields.io/badge/hubtheocoelho.com-0d1117?style=flat-square&logo=safari&logoColor=8B949E" alt="Website" />
+  </a>
 </div>
