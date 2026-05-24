@@ -1,12 +1,5 @@
 <div align="center">
 
-```
- ┌──────────────────────────────────────────────────────────────┐
- │   theo coêlho                                                │
- │   ai engineer · spec author · open-source                    │
- │   florianópolis, br  ·  hubtheocoelho.com                    │
- └──────────────────────────────────────────────────────────────┘
-```
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=qualifying+commits+for+the+agent+era;designing+protocols+for+autonomous+systems;hubtheocoelho.com+%E2%80%94+em+constru%C3%A7%C3%A3o)](https://github.com/hubtheocoelho)
 
@@ -22,16 +15,12 @@
 </div>
 
 
-```bash
-$ whoami
-theo coêlho — engenheiro de ia
-```
 
 Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos escrevam código, publiquem commits e colaborem sem perder rastreabilidade.
 
 **Foco atual**
 
-- **[QAC — Qualified Agent Commits](./images/repo/card-qac.svg)** — especificação de mensagem de commit que qualifica cada commit com um schema fixo de quatro trailers (`Agent`, `Mode`, `What`, `Why`). Autorada para tornar repositórios produzidos por agentes interoperáveis entre times, ferramentas e modelos.
+- **[QAC — Qualified Agent Commits](./images/repo/card-qac-compact.svg)** — especificação de mensagem de commit que qualifica cada commit com um schema fixo de quatro trailers (`Agent`, `Mode`, `What`, `Why`). Autorada para tornar repositórios produzidos por agentes interoperáveis entre times, ferramentas e modelos.
 - **[hubtheocoelho.com](https://hubtheocoelho.com)** — site pessoal bilíngue, em construção. Concebido como case-study técnico da spec QAC.
 - **Pesquisa open-source** — `joaju` (orquestração de agentes), `tekoha` (indexação semântica), `yande` (benchmark de LLMs), `nexus-fs`.
 
@@ -39,7 +28,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 ## em destaque
 
-<a href="./images/repo/card-qac.svg">
+<a href="./images/repo/card-qac-compact.svg">
   <img src="./images/repo/qac-spec-repo.svg" alt="qac-spec" />
 </a>
 
@@ -72,8 +61,8 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 <div align="center">
 
-<img height="160" src="./images/repo/card-stats.svg" alt="github overview" />
-<img height="160" src="./images/repo/card-langs.svg" alt="top languages" />
+<img height="90" src="./images/repo/card-stats-compact.svg" alt="github overview" />
+<img height="90" src="./images/repo/card-langs-compact.svg" alt="top languages" />
 
 </div>
 
@@ -84,16 +73,12 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 <br>
 
-```bash
-$ whoami
-theo coêlho — ai engineer
-```
 
 I design and build infrastructure for AI agents — protocols, orchestration, and tooling that let autonomous systems write code, ship commits, and collaborate without losing traceability.
 
 **Currently working on**
 
-- **[QAC — Qualified Agent Commits](./images/repo/card-qac.svg)** — a commit-message specification that qualifies each commit with a fixed schema of four trailers (`Agent`, `Mode`, `What`, `Why`). Authored to make agent-produced repositories interoperable across teams, tools, and models.
+- **[QAC — Qualified Agent Commits](./images/repo/card-qac-compact.svg)** — a commit-message specification that qualifies each commit with a fixed schema of four trailers (`Agent`, `Mode`, `What`, `Why`). Authored to make agent-produced repositories interoperable across teams, tools, and models.
 - **[hubtheocoelho.com](https://hubtheocoelho.com)** — bilingual personal site, under construction. Conceived as the technical case-study for QAC.
 - **Open-source research** — `joaju` (agent orchestration), `tekoha` (semantic indexing), `yande` (LLM benchmarking), `nexus-fs`.
 
@@ -108,5 +93,5 @@ I design and build infrastructure for AI agents — protocols, orchestration, an
 ---
 
 <div align="center">
-  <sub><code>commits qualificados sob <a href="./images/repo/card-qac.svg">QAC</a></code></sub>
+  <sub><code>commits qualificados sob <a href="./images/repo/card-qac-compact.svg">QAC</a></code></sub>
 </div>

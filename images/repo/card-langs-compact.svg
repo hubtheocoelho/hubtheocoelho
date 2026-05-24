@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 100" width="420" height="100">
+  <rect width="100%" height="100%" fill="#081223" rx="8"/>
+  <text x="16" y="36" font-family="Inter, Arial, sans-serif" font-size="14" fill="#E6EEF3" font-weight="700">Top Languages</text>
+  <text x="16" y="56" font-family="Inter, Arial, sans-serif" font-size="11" fill="#A7BBC5">Language breakdown (compact)</text>
+</svg>
