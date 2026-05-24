@@ -32,7 +32,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 ## em destaque
 
 <a href="https://github.com/hubtheocoelho/qac-spec">
-  <img src="./images/qac-spec-pin.svg" alt="qac-spec" />
+  <img src="./images/qac-spec-pin.jpg" alt="qac-spec" />
 </a>
 
 > QAC padroniza o que outras equipes deixam ad-hoc: as chaves dos trailers, sua ordem, e os valores permitidos do `Mode`. Qualquer repositório QAC-compliant torna-se consultável com os mesmos padrões — independentemente do time, ferramenta ou agente que produziu o commit.
@@ -64,8 +64,8 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 <div align="center">
 
-<img height="160" src="./images/github-stats.svg" alt="github stats" />
-<img height="160" src="./images/top-langs.svg" alt="top languages" />
+<img height="160" src="./images/github-stats.jpg" alt="github stats" />
+<img height="160" src="./images/top-langs.jpg" alt="top languages" />
 
 </div>
 
