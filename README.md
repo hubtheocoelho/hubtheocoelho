@@ -4,13 +4,17 @@
 
 ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheocoelho.com)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=qualifying+commits+for+the+agent+era;building+AI+infrastructure+%E2%80%94+protocols+%2B+tooling;open-source+at+hubtheocoelho.com)](https://github.com/hubtheocoelho)
 
-<img src="https://img.shields.io/badge/role-AI%20Engineer-blue?style=flat-square" alt="role" />
-<img src="https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=flat-square" alt="followers" />
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=qualifying+commits+for+the+agent+era;designing+protocols+for+autonomous+systems;hubtheocoelho.com+%E2%80%94+em+constru%C3%A7%C3%A3o)](https://github.com/hubtheocoelho)
+[![Website](https://img.shields.io/badge/hubtheocoelho.com-0d1117?style=flat-square&logo=safari&logoColor=8B949E)](https://hubtheocoelho.com)
+[![GitHub followers](https://img.shields.io/github/followers/hubtheocoelho?label=followers&style=flat-square&color=8B949E&labelColor=0d1117&logo=github&logoColor=8B949E)](https://github.com/hubtheocoelho?tab=followers)
+[![GitHub User's stars](https://img.shields.io/github/stars/hubtheocoelho?label=stars&style=flat-square&color=8B949E&labelColor=0d1117&logo=github&logoColor=8B949E)](https://github.com/hubtheocoelho)
+
 </div>
 
+---
 
 Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos escrevam código, publiquem commits e colaborem sem perder rastreabilidade.
 
@@ -25,14 +29,41 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 ### QAC - Qualified Agent Commits
 
 <a href="https://github.com/hubtheocoelho/qac-spec">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hubtheocoelho&repo=qac-spec&theme=github_dark&hide_border=true&description_lines_count=2" alt="qac-spec" />
+</a>
+
+<div>
+
+<a href="https://github.com/hubtheocoelho/qac-spec">
   <img src="https://img.shields.io/github/stars/hubtheocoelho/qac-spec?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" alt="stars" />
+</a>
+<a href="https://github.com/hubtheocoelho/qac-spec/network/members">
   <img src="https://img.shields.io/github/forks/hubtheocoelho/qac-spec?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" alt="forks" />
+</a>
+<a href="https://github.com/hubtheocoelho/qac-spec/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/hubtheocoelho/qac-spec?style=for-the-badge&labelColor=0d1117&color=30363d" alt="license" />
 </a>
+
+</div>
 
 > QAC padroniza o que outras equipes deixam ad-hoc: as chaves dos trailers, sua ordem, e os valores permitidos do `Mode`. Qualquer repositório QAC-compliant torna-se consultável com os mesmos padrões — independentemente do time, ferramenta ou agente que produziu o commit.
 >
 > Quatro trailers. Legíveis por máquinas. Legíveis por humanos. Interoperáveis.
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+<a href="https://github.com/hubtheocoelho">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hubtheocoelho&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+</a>
+<a href="https://github.com/hubtheocoelho">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubtheocoelho&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</a>
+
+</div>
 
 ---
 
