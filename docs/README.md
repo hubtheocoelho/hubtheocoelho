@@ -117,7 +117,6 @@ hubtheocoelho/
 ├── .mise.toml
 ├── docs/
 │   └── README.md
-├── images/
 ├── index.html
 ├── netlify.toml
 ├── package.json
