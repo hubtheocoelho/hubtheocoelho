@@ -23,7 +23,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 **Foco atual**
 
-- **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — especificação de mensagem de commit que qualifica cada commit com um schema fixo de quatro trailers (`Agent`, `Mode`, `What`, `Why`). Autorada para tornar repositórios produzidos por agentes interoperáveis entre times, ferramentas e modelos.
+- **[QAC — Qualified Agent Commits](https://raw.githubusercontent.com/hubtheocoelho/hubtheocoelho/fix/readme-images/images/repo/qac-spec-repo.svg)** — especificação de mensagem de commit que qualifica cada commit com um schema fixo de quatro trailers (`Agent`, `Mode`, `What`, `Why`). Autorada para tornar repositórios produzidos por agentes interoperáveis entre times, ferramentas e modelos.
 - **[hubtheocoelho.com](https://hubtheocoelho.com)** — site pessoal bilíngue, em construção. Concebido como case-study técnico da spec QAC.
 - **Pesquisa open-source** — `joaju` (orquestração de agentes), `tekoha` (indexação semântica), `yande` (benchmark de LLMs), `nexus-fs`.
 
@@ -31,7 +31,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 ## em destaque
 
-<a href="https://github.com/hubtheocoelho/qac-spec">
+<a href="https://raw.githubusercontent.com/hubtheocoelho/hubtheocoelho/fix/readme-images/images/repo/qac-spec-repo.svg">
   <img src="./images/qac-spec-pin.jpg" alt="qac-spec" />
 </a>
 
@@ -85,7 +85,7 @@ I design and build infrastructure for AI agents — protocols, orchestration, an
 
 **Currently working on**
 
-- **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — a commit-message specification that qualifies each commit with a fixed schema of four trailers (`Agent`, `Mode`, `What`, `Why`). Authored to make agent-produced repositories interoperable across teams, tools, and models.
+- **[QAC — Qualified Agent Commits](https://raw.githubusercontent.com/hubtheocoelho/hubtheocoelho/fix/readme-images/images/repo/qac-spec-repo.svg)** — a commit-message specification that qualifies each commit with a fixed schema of four trailers (`Agent`, `Mode`, `What`, `Why`). Authored to make agent-produced repositories interoperable across teams, tools, and models.
 - **[hubtheocoelho.com](https://hubtheocoelho.com)** — bilingual personal site, under construction. Conceived as the technical case-study for QAC.
 - **Open-source research** — `joaju` (agent orchestration), `tekoha` (semantic indexing), `yande` (LLM benchmarking), `nexus-fs`.
 
@@ -100,5 +100,5 @@ I design and build infrastructure for AI agents — protocols, orchestration, an
 ---
 
 <div align="center">
-  <sub><code>commits qualificados sob <a href="https://github.com/hubtheocoelho/qac-spec">QAC</a></code></sub>
+  <sub><code>commits qualificados sob <a href="https://raw.githubusercontent.com/hubtheocoelho/hubtheocoelho/fix/readme-images/images/repo/qac-spec-repo.svg">QAC</a></code></sub>
 </div>
