@@ -26,13 +26,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 ---
 
 ## Em destaque
-### QAC - Qualified Agent Commits
-
-<a href="https://github.com/hubtheocoelho/qac-spec">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hubtheocoelho&repo=qac-spec&theme=github_dark&hide_border=true" alt="qac-spec" />
-</a>
-
-<div>
+### [QAC - Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)
 
 <a href="https://github.com/hubtheocoelho/qac-spec">
   <img src="https://img.shields.io/github/stars/hubtheocoelho/qac-spec?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" alt="stars" />
@@ -43,8 +37,6 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 <a href="https://github.com/hubtheocoelho/qac-spec/blob/main/LICENSE">
   <img src="https://img.shields.io/github/license/hubtheocoelho/qac-spec?style=for-the-badge&labelColor=0d1117&color=30363d" alt="license" />
 </a>
-
-</div>
 
 > QAC padroniza o que outras equipes deixam ad-hoc: as chaves dos trailers, sua ordem, e os valores permitidos do `Mode`. Qualquer repositório QAC-compliant torna-se consultável com os mesmos padrões — independentemente do time, ferramenta ou agente que produziu o commit.
 >
