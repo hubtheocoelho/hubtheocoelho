@@ -1,17 +1,17 @@
 <div align="center">
 
-```
- ┌──────────────────────────────────────────────────────────────┐
- │   theo coêlho                                                │
- │   ai engineer · spec author · open-source                    │
- │   florianópolis, br  ·  hubtheocoelho.com                    │
- └──────────────────────────────────────────────────────────────┘
-```
+[![Typing SVG](./images/typing.svg)](https://github.com/hubtheocoelho)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=qualifying+commits+for+the+agent+era;designing+protocols+for+autonomous+systems;hubtheocoelho.com+%E2%80%94+em+constru%C3%A7%C3%A3o)](https://github.com/hubtheocoelho)
+# theo coêlho
+
+ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheocoelho.com)
+
+
+<img src="https://img.shields.io/badge/role-AI%20Engineer-blue?style=flat-square" alt="role" />
+<img src="https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=flat-square" alt="followers" />
+<img src="https://img.shields.io/badge/QAC-spec-verified-brightgreen?style=flat-square" alt="qac" />
 
 </div>
-
 ---
 
 ```bash
@@ -64,13 +64,12 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hubtheocoelho&theme=github_dark&hide_border=true&bg_color=00000000&show_icons=true&count_private=true&include_all_commits=true" alt="github stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubtheocoelho&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8" alt="top languages" />
+![Followers](https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=for-the-badge)
+![Top Langs](https://img.shields.io/badge/Top-Langs-compact?style=for-the-badge)
 
 </div>
 
 ---
-
 <details>
 <summary><b>read in english</b></summary>
 
