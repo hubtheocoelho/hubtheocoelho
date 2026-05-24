@@ -17,8 +17,8 @@ I design and build infrastructure for AI agents — protocols, orchestration, an
 
 **Currently working on**
 - **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — a commit-message specification that qualifies each commit with a fixed schema. Authored to make agent-produced repositories interoperable.
-- **[hubtheocoelho.com](https://hubtheocoelho.com)** — personal site and technical case-study for QAC.
-- **Open-source research** — `nexus-fs`, `joaju` (orchestration), `tekoha` (indexing).
+- **[hubtheocoelho.com](https://hubtheocoelho.com)** — personal site.
+- **Open-source research** — `joaju` (orchestration), `tekoha` (indexing).
 
 <details>
 <summary><b>ler em português</b></summary>
