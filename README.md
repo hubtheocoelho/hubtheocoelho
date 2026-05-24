@@ -57,18 +57,11 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 <!-- ISSUES:START -->
 <table>
-<thead><tr><th>issue</th><th>título</th><th>status</th></tr></thead>
+<thead><tr><th>issue</th><th>title</th><th>status</th></tr></thead>
 <tbody>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7803"><code>kirodotdev/Kiro#7803</code></a></td><td>[CLI] User-initiated tool use cancellation treated as recoverable failure - agent retries persistently across topic changes</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7792"><code>kirodotdev/Kiro#7792</code></a></td><td>[CLI] System prompt <default_to_action> directive overrides agent prompt constraints - no precedence hierarchy between prompt layers</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7758"><code>kirodotdev/Kiro#7758</code></a></td><td>Propagate power steering context to subagents - subagents should receive POWER.md and steering files from active powers</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7757"><code>kirodotdev/Kiro#7757</code></a></td><td>On-demand power activation - allow agents and subagents to invoke powers explicitly</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7756"><code>kirodotdev/Kiro#7756</code></a></td><td>Inter-power communication - enable data passing and composition between active powers</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7755"><code>kirodotdev/Kiro#7755</code></a></td><td>Hooks should trigger in subagents - governance must be uniform across all agent types</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7754"><code>kirodotdev/Kiro#7754</code></a></td><td>Granular tool classification in powers - declare read/write permissions for MCP tools</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7753"><code>kirodotdev/Kiro#7753</code></a></td><td>Explicit parallel activation of multiple powers - enable concurrent power usage by invocation</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7751"><code>kirodotdev/Kiro#7751</code></a></td><td>Context-aware power activation - semantic intent matching beyond literal keywords</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
-<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7511"><code>kirodotdev/Kiro#7511</code></a></td><td>Agent start instruction - agent-initiated response on session start</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
+<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7803"><code>kiro#7803</code></a></td><td>[CLI] User-initiated tool use cancellation treated as recoverable failure</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
+<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7792"><code>kiro#7792</code></a></td><td>[CLI] System prompt default_to_action directive overrides agent constraints</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
+<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7758"><code>kiro#7758</code></a></td><td>Propagate power steering context to subagents</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
 </tbody>
 </table>
 <!-- ISSUES:END -->
