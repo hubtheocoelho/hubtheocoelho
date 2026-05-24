@@ -2,9 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=qualifying+commits+for+the+agent+era;designing+protocols+for+autonomous+systems;hubtheocoelho.com+%E2%80%94+em+constru%C3%A7%C3%A3o)](https://github.com/hubtheocoelho)
 
-# theo coêlho
+# Theo Coêlho
 
 ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheocoelho.com)
+
+
+<img src="https://img.shields.io/badge/role-AI%20Engineer-blue?style=flat-square" alt="role" />
+<img src="https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=flat-square" alt="followers" />
+
+</div>
 
 
 <img src="https://img.shields.io/badge/role-AI%20Engineer-blue?style=flat-square" alt="role" />
@@ -13,11 +19,6 @@ ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheo
 
 </div>
 ---
-
-```bash
-$ whoami
-theo coêlho — engenheiro de ia
-```
 
 Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos escrevam código, publiquem commits e colaborem sem perder rastreabilidade.
 
@@ -29,9 +30,12 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 ---
 
-## em destaque
+## Em destaque
 
-<a href="https://github.com/hubtheocoelho/qac-spec">  <img src="" alt="qac-spec" height=96/>
+<a href="https://github.com/hubtheocoelho/qac-spec">
+  <img src="https://img.shields.io/github/stars/hubtheocoelho/qac-spec?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" alt="stars" />
+  <img src="https://img.shields.io/github/forks/hubtheocoelho/qac-spec?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" alt="forks" />
+  <img src="https://img.shields.io/github/license/hubtheocoelho/qac-spec?style=for-the-badge&labelColor=0d1117&color=30363d" alt="license" />
 </a>
 
 > QAC padroniza o que outras equipes deixam ad-hoc: as chaves dos trailers, sua ordem, e os valores permitidos do `Mode`. Qualquer repositório QAC-compliant torna-se consultável com os mesmos padrões — independentemente do time, ferramenta ou agente que produziu o commit.
@@ -40,7 +44,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 ---
 
-## últimas issues abertas
+## Últimas issues abertas
 
 <!-- ISSUES:START -->
 - [`kirodotdev/Kiro#7803`](https://github.com/kirodotdev/Kiro/issues/7803) — [CLI] User-initiated tool use cancellation treated as recoverable failure - agent retries persistently across topic changes `open`
@@ -59,12 +63,21 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 ---
 
-## stats
+## Stack
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=for-the-badge)
-![Top Langs](https://img.shields.io/badge/Top-Langs-compact?style=for-the-badge)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
 
 </div>
 
@@ -87,7 +100,7 @@ I design and build infrastructure for AI agents — protocols, orchestration, an
 - **[hubtheocoelho.com](https://hubtheocoelho.com)** — bilingual personal site, under construction. Conceived as the technical case-study for QAC.
 - **Open-source research** — `joaju` (agent orchestration), `tekoha` (semantic indexing), `yande` (LLM benchmarking), `nexus-fs`.
 
-### featured — qac-spec
+### Featured — qac-spec
 
 > QAC standardizes what other teams leave ad-hoc: the trailer keys, their order, and the allowed values for `Mode`. Any QAC-compliant repository becomes queryable with the same patterns — regardless of the team, tool, or agent that produced the commit.
 >
