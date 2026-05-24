@@ -54,20 +54,79 @@ npm run typecheck   # validate types without emitting
 
 </details>
 
+## Variáveis de ambiente
+
+| Variável        | Descrição                                                  |
+| --------------- | ---------------------------------------------------------- |
+| `VITE_SITE_URL` | URL canônica em produção (ex: `https://hubtheocoelho.com`) |
+
+Valores locais em `.env` (gitignored). Em produção, definidas no painel do Netlify. CI lê de GitHub Actions vars. `.env.example` documenta as vars esperadas.
+
+<details>
+<summary><b>EN</b></summary>
+
+| Variable        | Description                                                   |
+| --------------- | ------------------------------------------------------------- |
+| `VITE_SITE_URL` | canonical production URL (e.g., `https://hubtheocoelho.com`)  |
+
+Local values in `.env` (gitignored). In production, set in the Netlify dashboard. CI reads from GitHub Actions vars. `.env.example` documents the expected variables.
+
+</details>
+
+## CI
+
+`.github/workflows/ci.yml` roda em PRs e pushes pra `staging` e `main`:
+
+- `typecheck` (`tsc --noEmit`)
+- `build` (`vite build`)
+
+Falha em qualquer um bloqueia o merge.
+
+<details>
+<summary><b>EN</b></summary>
+
+`.github/workflows/ci.yml` runs on PRs and pushes to `staging` and `main`:
+
+- `typecheck` (`tsc --noEmit`)
+- `build` (`vite build`)
+
+Failure on either blocks merge.
+
+</details>
+
+## Deploy
+
+[Netlify](https://www.netlify.com/), build declarado em `netlify.toml`. Auto-deploy de `main`. Headers de segurança (HSTS, CSP, X-Frame-Options, Referrer-Policy, Permissions-Policy) aplicados a todas as rotas.
+
+<details>
+<summary><b>EN</b></summary>
+
+[Netlify](https://www.netlify.com/), build declared in `netlify.toml`. Auto-deploy from `main`. Security headers (HSTS, CSP, X-Frame-Options, Referrer-Policy, Permissions-Policy) applied to all routes.
+
+</details>
+
 ## Estrutura
 
 ```
 hubtheocoelho/
+├── .env.example
+├── .github/
+│   └── workflows/
+│       ├── ci.yml
+│       └── update-readme.yml
+├── .mise.toml
+├── docs/
+│   └── README.md
+├── images/
 ├── index.html
+├── netlify.toml
+├── package.json
+├── README.md
 ├── src/
 │   ├── main.ts
 │   └── styles.css
-├── package.json
 ├── tsconfig.json
-├── vite.config.ts
-├── README.md
-├── docs/README.md
-└── images/
+└── vite.config.ts
 ```
 
 ## Branches
