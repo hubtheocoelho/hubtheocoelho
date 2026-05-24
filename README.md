@@ -32,7 +32,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 ## em destaque
 
 <a href="https://github.com/hubtheocoelho/qac-spec">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hubtheocoelho&repo=qac-spec&theme=github_dark&hide_border=true&bg_color=00000000" alt="qac-spec" />
+  <img src="./images/qac-spec-pin.svg" alt="qac-spec" />
 </a>
 
 > QAC padroniza o que outras equipes deixam ad-hoc: as chaves dos trailers, sua ordem, e os valores permitidos do `Mode`. Qualquer repositório QAC-compliant torna-se consultável com os mesmos padrões — independentemente do time, ferramenta ou agente que produziu o commit.
@@ -64,8 +64,8 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=hubtheocoelho&theme=github_dark&hide_border=true&bg_color=00000000&show_icons=true&count_private=true&include_all_commits=true" alt="github stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubtheocoelho&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8" alt="top languages" />
+<img height="160" src="./images/github-stats.svg" alt="github stats" />
+<img height="160" src="./images/top-langs.svg" alt="top languages" />
 
 </div>
 
