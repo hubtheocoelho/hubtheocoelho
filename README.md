@@ -1,102 +1,93 @@
 <div align="center">
 
 # Theo Coêlho
+` AI Engineer · Spec Author · Open Source `
 
-ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheocoelho.com)
+<a href="https://hubtheocoelho.com"><img src="https://img.shields.io/badge/-EXPLORAR%20HUB-0d1117?style=flat-square&logo=linktree&logoColor=8B949E&color=0d1117" height="20" /></a>
+<a href="https://github.com/hubtheocoelho?tab=followers"><img src="https://img.shields.io/github/followers/hubtheocoelho?label=followers&style=flat-square&color=8B949E&labelColor=0d1117&logo=github&logoColor=8B949E" height="20" /></a>
+<a href="https://github.com/hubtheocoelho"><img src="https://img.shields.io/github/stars/hubtheocoelho?label=stars&style=flat-square&color=8B949E&labelColor=0d1117&logo=github&logoColor=8B949E" height="20" /></a>
 
-
-<img src="https://img.shields.io/badge/role-AI%20Engineer-blue?style=flat-square" alt="role" />
-<img src="https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=flat-square" alt="followers" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=620&lines=qualifying+commits+for+the+agent+era;designing+protocols+for+autonomous+systems;hubtheocoelho.com+%E2%80%94+em+constru%C3%A7%C3%A3o)](https://github.com/hubtheocoelho)
-</div>
-
-
-Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos escrevam código, publiquem commits e colaborem sem perder rastreabilidade.
-
-**Foco atual**
-
-- **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — especificação de mensagem de commit que qualifica cada commit com um schema fixo de quatro trailers (`Agent`, `Mode`, `What`, `Why`). Autorada para tornar repositórios produzidos por agentes interoperáveis entre times, ferramentas e modelos.
-- **[hubtheocoelho.com](https://hubtheocoelho.com)** — site pessoal, em construção.
-
----
-
-## Em destaque
-### QAC - Qualified Agent Commits
-
-<a href="https://github.com/hubtheocoelho/qac-spec">
-  <img src="https://img.shields.io/github/stars/hubtheocoelho/qac-spec?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" alt="stars" />
-  <img src="https://img.shields.io/github/forks/hubtheocoelho/qac-spec?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" alt="forks" />
-  <img src="https://img.shields.io/github/license/hubtheocoelho/qac-spec?style=for-the-badge&labelColor=0d1117&color=30363d" alt="license" />
-</a>
-
-> QAC padroniza o que outras equipes deixam ad-hoc: as chaves dos trailers, sua ordem, e os valores permitidos do `Mode`. Qualquer repositório QAC-compliant torna-se consultável com os mesmos padrões — independentemente do time, ferramenta ou agente que produziu o commit.
->
-> Quatro trailers. Legíveis por máquinas. Legíveis por humanos. Interoperáveis.
-
----
-
-## Últimas issues abertas
-
-<!-- ISSUES:START -->
-- [`kirodotdev/Kiro#7803`](https://github.com/kirodotdev/Kiro/issues/7803) — [CLI] User-initiated tool use cancellation treated as recoverable failure - agent retries persistently across topic changes `open`
-- [`kirodotdev/Kiro#7792`](https://github.com/kirodotdev/Kiro/issues/7792) — [CLI] System prompt <default_to_action> directive overrides agent prompt constraints - no precedence hierarchy between prompt layers `open`
-- [`kirodotdev/Kiro#7758`](https://github.com/kirodotdev/Kiro/issues/7758) — Propagate power steering context to subagents - subagents should receive POWER.md and steering files from active powers `open`
-- [`kirodotdev/Kiro#7757`](https://github.com/kirodotdev/Kiro/issues/7757) — On-demand power activation - allow agents and subagents to invoke powers explicitly `open`
-- [`kirodotdev/Kiro#7756`](https://github.com/kirodotdev/Kiro/issues/7756) — Inter-power communication - enable data passing and composition between active powers `open`
-- [`kirodotdev/Kiro#7755`](https://github.com/kirodotdev/Kiro/issues/7755) — Hooks should trigger in subagents - governance must be uniform across all agent types `open`
-- [`kirodotdev/Kiro#7754`](https://github.com/kirodotdev/Kiro/issues/7754) — Granular tool classification in powers - declare read/write permissions for MCP tools `open`
-- [`kirodotdev/Kiro#7753`](https://github.com/kirodotdev/Kiro/issues/7753) — Explicit parallel activation of multiple powers - enable concurrent power usage by invocation `open`
-- [`kirodotdev/Kiro#7751`](https://github.com/kirodotdev/Kiro/issues/7751) — Context-aware power activation - semantic intent matching beyond literal keywords `open`
-- [`kirodotdev/Kiro#7511`](https://github.com/kirodotdev/Kiro/issues/7511) — Agent start instruction - agent-initiated response on session start `open`
-<!-- ISSUES:END -->
-
-<sub>atualizado automaticamente a cada 6h — ver <a href=".github/workflows/update-readme.yml"><code>update-readme.yml</code></a></sub>
-
----
-
-## Stack
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" title="Node.js" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker" />
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=880&height=30&lines=Espec+QAC+%C2%B7+Commits+rastre%C3%A1veis+e+economia+de+contexto+%C2%B7+Agent%E2%80%93Native;Orquestra%C3%A7%C3%A3o+%C2%B7+Fluxos+aut%C3%B4nomos+com+governan%C3%A7a+%C2%B7+Agentic+Systems;MCP+Mediator+%C2%B7+Server%E2%80%93side+logic+e+workflows+determin%C3%ADsticos+%C2%B7+AI+Middleware;Quality+Enablement+%C2%B7+Shift%E2%80%93left+e+RAG%E2%80%93ready+documentation+%C2%B7+AI+Governance;Infra+de+IA+%C2%B7+Engenharia+de+ecossistemas+e+guardrails+%C2%B7+AI+Scalability)](https://github.com/hubtheocoelho)
 
 </div>
 
 ---
-<details>
-<summary><b>read in english</b></summary>
-
-<br>
 
 I design and build infrastructure for AI agents — protocols, orchestration, and tooling that let autonomous systems write code, ship commits, and collaborate without losing traceability.
 
 **Currently working on**
+- **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — a commit-message specification that qualifies each commit with a fixed schema. Authored to make agent-produced repositories interoperable.
+- **[hubtheocoelho.com](https://hubtheocoelho.com)** — personal site and technical case-study for QAC.
+- **Open-source research** — `nexus-fs`, `joaju` (orchestration), `tekoha` (indexing).
 
-- **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — a commit-message specification that qualifies each commit with a fixed schema of four trailers (`Agent`, `Mode`, `What`, `Why`). Authored to make agent-produced repositories interoperable across teams, tools, and models.
-- **[hubtheocoelho.com](https://hubtheocoelho.com)** — bilingual personal site, under construction. Conceived as the technical case-study for QAC.
-- **Open-source research** — `joaju` (agent orchestration), `tekoha` (semantic indexing), `yande` (LLM benchmarking), `nexus-fs`.
+<details>
+<summary><b>ler em português</b></summary>
+<br />
+Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos colaborem sem perder rastreabilidade.
 
-### Featured — qac-spec
-
-> QAC standardizes what other teams leave ad-hoc: the trailer keys, their order, and the allowed values for `Mode`. Any QAC-compliant repository becomes queryable with the same patterns — regardless of the team, tool, or agent that produced the commit.
->
-> Four trailers. Machine-readable. Human-readable. Interoperable.
-
+**Foco atual**
+- **QAC Spec** — especificação autorada para tornar repositórios produzidos por agentes interoperáveis entre times e modelos.
+- **hubtheocoelho.com** — site pessoal em construção.
 </details>
 
 ---
 
+## Featured
+### [QAC - Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)
+
+<a href="https://github.com/hubtheocoelho/qac-spec">
+  <img src="https://img.shields.io/github/stars/hubtheocoelho/qac-spec?style=flat-square&logo=github&labelColor=0d1117&color=8B949E" alt="stars" />
+</a>
+<a href="https://github.com/hubtheocoelho/qac-spec/network/members">
+  <img src="https://img.shields.io/github/forks/hubtheocoelho/qac-spec?style=flat-square&logo=github&labelColor=0d1117&color=8B949E" alt="forks" />
+</a>
+
+> QAC standardizes what other teams leave ad-hoc: trailer keys, order, and `Mode` values. Any QAC-compliant repository becomes machine-queryable with the same patterns.
+> **Four trailers. Machine-readable. Human-readable. Interoperable.**
+
+---
+
+## Activity & Stats
+
 <div align="center">
-  <sub><code>commits qualificados sob <a href="https://github.com/hubtheocoelho/qac-spec">QAC</a></code></sub>
+  <img src="https://streak-stats.demolab.com/?user=hubtheocoelho&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<!-- ISSUES:START -->
+<table>
+<thead><tr><th>issue</th><th>title</th><th>status</th></tr></thead>
+<tbody>
+<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7803"><code>kiro#7803</code></a></td><td>[CLI] User-initiated tool use cancellation treated as recoverable failure</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
+<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7792"><code>kiro#7792</code></a></td><td>[CLI] System prompt default_to_action directive overrides agent constraints</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
+<tr><td><a href="https://github.com/kirodotdev/Kiro/issues/7758"><code>kiro#7758</code></a></td><td>Propagate power steering context to subagents</td><td><img src="https://img.shields.io/badge/open-3fb950?style=flat-square&labelColor=0d1117" /></td></tr>
+</tbody>
+</table>
+<!-- ISSUES:END -->
+
+<div align="right">
+  <sub>updated every 6h — <a href=".github/workflows/update-readme.yml"><code>workflow</code></a></sub>
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30" height="30" alt="TypeScript" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30" height="30" alt="Docker" /> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" />
+</div>
+
+---
+
+<div align="center">
+  <sub><code>commits qualified under <a href="https://github.com/hubtheocoelho/qac-spec">QAC</a></code></sub>
+  <br />
+  <a href="https://hubtheocoelho.com">
+    <img src="https://img.shields.io/badge/hubtheocoelho.com-0d1117?style=flat-square&logo=safari&logoColor=8B949E" alt="Website" />
+  </a>
 </div>
