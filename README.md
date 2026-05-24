@@ -13,27 +13,29 @@
 
 ---
 
-I design and build infrastructure for AI agents — protocols, orchestration, and tooling that let autonomous systems write code, ship commits, and collaborate without losing traceability.
+Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos escrevam código, publiquem commits e colaborem sem perder rastreabilidade.
 
-**Currently working on**
-- **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — a commit-message specification that qualifies each commit with a fixed schema. Authored to make agent-produced repositories interoperable.
-- **[hubtheocoelho.com](https://hubtheocoelho.com)** — personal site.
-- **Open-source research** — `joaju` (orchestration), `tekoha` (indexing).
+**No momento**
+- **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — especificação de commit-message que qualifica cada commit com um schema fixo. Autorada para tornar repositórios produzidos por agentes interoperáveis entre times e modelos.
+- **[hubtheocoelho.com](https://hubtheocoelho.com)** — site pessoal, em construção.
 
 <details>
-<summary><b>ler em português</b></summary>
+<summary><b>Read in English</b></summary>
 <br />
-Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos colaborem sem perder rastreabilidade.
 
-**Foco atual**
-- **QAC Spec** — especificação autorada para tornar repositórios produzidos por agentes interoperáveis entre times e modelos.
-- **hubtheocoelho.com** — site pessoal em construção.
+I design and build infrastructure for AI agents — protocols, orchestration, and tooling that let autonomous systems write code, ship commits, and collaborate without losing traceability.
+
+**Currently**
+- **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — a commit-message specification that qualifies each commit with a fixed schema. Authored to make agent-produced repositories interoperable across teams and models.
+- **[hubtheocoelho.com](https://hubtheocoelho.com)** — personal site, under construction.
+
 </details>
 
 ---
 
-## Featured
-### [QAC - Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)
+## Destaque
+
+### [QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)
 
 <a href="https://github.com/hubtheocoelho/qac-spec">
   <img src="https://img.shields.io/github/stars/hubtheocoelho/qac-spec?style=flat-square&logo=github&labelColor=0d1117&color=8B949E" alt="stars" />
@@ -42,12 +44,21 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
   <img src="https://img.shields.io/github/forks/hubtheocoelho/qac-spec?style=flat-square&logo=github&labelColor=0d1117&color=8B949E" alt="forks" />
 </a>
 
+> QAC padroniza o que outros times deixam ad-hoc: chaves de trailer, ordem e valores de `Mode`. Qualquer repositório QAC-compliant se torna consultável por máquina com os mesmos padrões.
+> **Quatro trailers. Legível por máquina. Legível por humano. Interoperável.**
+
+<details>
+<summary><b>Read in English</b></summary>
+<br />
+
 > QAC standardizes what other teams leave ad-hoc: trailer keys, order, and `Mode` values. Any QAC-compliant repository becomes machine-queryable with the same patterns.
 > **Four trailers. Machine-readable. Human-readable. Interoperable.**
 
+</details>
+
 ---
 
-## Activity & Stats
+## Atividade
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=hubtheocoelho&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
@@ -67,12 +78,12 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 <!-- ISSUES:END -->
 
 <div align="right">
-  <sub>updated every 6h — <a href=".github/workflows/update-readme.yml"><code>workflow</code></a></sub>
+  <sub>atualizado a cada 6h — <a href=".github/workflows/update-readme.yml"><code>workflow</code></a></sub>
 </div>
 
 ---
 
-## Tech Stack
+## Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" height="30" alt="Python" /> &nbsp;
