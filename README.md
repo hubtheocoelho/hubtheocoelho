@@ -9,7 +9,6 @@ ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheo
 
 <img src="https://img.shields.io/badge/role-AI%20Engineer-blue?style=flat-square" alt="role" />
 <img src="https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=flat-square" alt="followers" />
-<img src="https://img.shields.io/badge/QAC-spec-verified-brightgreen?style=flat-square" alt="qac" />
 
 </div>
 
