@@ -12,6 +12,12 @@ ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheo
 
 </div>
 
+
+<img src="https://img.shields.io/badge/role-AI%20Engineer-blue?style=flat-square" alt="role" />
+<img src="https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=flat-square" alt="followers" />
+<img src="https://img.shields.io/badge/QAC-spec-verified-brightgreen?style=flat-square" alt="qac" />
+
+</div>
 ---
 
 Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos escrevam código, publiquem commits e colaborem sem perder rastreabilidade.
@@ -76,7 +82,6 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 </div>
 
 ---
-
 <details>
 <summary><b>read in english</b></summary>
 
