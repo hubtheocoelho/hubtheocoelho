@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 160" width="640" height="160">
+  <rect width="100%" height="100%" fill="#071018" rx="8"/>
+  <g transform="translate(24,30)">
+    <rect width="88" height="88" rx="12" fill="#111827"/>
+    <path d="M16 56 L34 40 L50 56 L74 28" stroke="#10B981" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="132" y="64" font-family="Inter, Arial, sans-serif" font-size="20" fill="#E6EEF3" font-weight="700">GitHub Overview</text>
+  <text x="132" y="94" font-family="Inter, Arial, sans-serif" font-size="13" fill="#A7BBC5">Stars, forks and activity — replaced with stable shields badges below</text>
+</svg>
