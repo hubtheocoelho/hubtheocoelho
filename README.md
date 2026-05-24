@@ -29,7 +29,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 ### QAC - Qualified Agent Commits
 
 <a href="https://github.com/hubtheocoelho/qac-spec">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hubtheocoelho&repo=qac-spec&theme=github_dark&hide_border=true&description_lines_count=2" alt="qac-spec" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hubtheocoelho&repo=qac-spec&theme=github_dark&hide_border=true" alt="qac-spec" />
 </a>
 
 <div>
@@ -56,12 +56,7 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 
 <div align="center">
 
-<a href="https://github.com/hubtheocoelho">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hubtheocoelho&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-</a>
-<a href="https://github.com/hubtheocoelho">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubtheocoelho&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hubtheocoelho&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/hubtheocoelho)
 
 </div>
 
