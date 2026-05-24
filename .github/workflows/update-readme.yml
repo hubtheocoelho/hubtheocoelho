@@ -30,18 +30,18 @@ jobs:
           ISSUES=$(gh api -X GET search/issues \
             -f q="author:${USER} is:issue sort:created-desc" \
             -F per_page=10 \
-            --jq '.items[] | "| [`" + (.repository_url | sub("https://api.github.com/repos/"; "")) + "#" + (.number|tostring) + "`](" + .html_url + ") | " + .title + " | ![](" + "https://img.shields.io/badge/" + .state + "-" + (if .state == "open" then "3fb950" else "f85149" end) + "?style=flat-square&labelColor=0d1117) | " + (.created_at | split("T")[0]) + " |"' \
+            --jq '.items[] | "<tr><td><a href=\"" + .html_url + "\"><code>" + (.repository_url | sub("https://api.github.com/repos/"; "")) + "#" + (.number|tostring) + "</code></a></td><td>" + .title + "</td><td><img src=\"https://img.shields.io/badge/" + .state + "-" + (if .state == "open" then "3fb950" else "f85149" end) + "?style=flat-square&labelColor=0d1117\" /></td><td>" + (.created_at | split("T")[0]) + "</td></tr>"' \
             || true)
 
           {
             echo "<!-- ISSUES:START -->"
-            echo "| issue | título | status | aberta em |"
-            echo "|---|---|---|---|"
+            printf '<table>\n<thead><tr><th>issue</th><th>título</th><th>status</th><th>aberta em</th></tr></thead>\n<tbody>\n'
             if [ -z "$ISSUES" ]; then
-              echo "| — | _nenhuma issue ainda — em breve._ | — | — |"
+              echo '<tr><td colspan="4"><em>nenhuma issue ainda — em breve.</em></td></tr>'
             else
               echo "$ISSUES"
             fi
+            printf '</tbody>\n</table>\n'
             echo "<!-- ISSUES:END -->"
           } > /tmp/issues.md
 
