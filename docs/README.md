@@ -20,14 +20,14 @@ Source code for [Theo Coêlho](https://github.com/hubtheocoelho)'s personal site
 
 ## Stack
 
-- **Build:** [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/) (strict, Node 20 LTS)
+- **Build:** [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/) (strict, Node 24 LTS)
 - **Estilo:** CSS puro com custom properties
 - **Commits:** [QAC v1.0](https://github.com/hubtheocoelho/qac-spec)
 
 <details>
 <summary><b>EN</b></summary>
 
-- **Build:** [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/) (strict, Node 20 LTS)
+- **Build:** [Vite](https://vitejs.dev/) + [TypeScript](https://www.typescriptlang.org/) (strict, Node 24 LTS)
 - **Style:** vanilla CSS with custom properties
 - **Commits:** [QAC v1.0](https://github.com/hubtheocoelho/qac-spec)
 
