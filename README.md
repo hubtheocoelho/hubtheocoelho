@@ -4,7 +4,7 @@
  ┌──────────────────────────────────────────────────────────────┐
  │   theo coêlho                                                │
  │   ai engineer · spec author · open-source                    │
- │   são paulo, br  ·  hubtheocoelho.com                        │
+ │   florianópolis, br  ·  hubtheocoelho.com                        │
  └──────────────────────────────────────────────────────────────┘
 ```
 
