@@ -13,24 +13,17 @@ ai engineer · spec author · open-source · [hubtheocoelho.com](https://hubtheo
 </div>
 
 
-<img src="https://img.shields.io/badge/role-AI%20Engineer-blue?style=flat-square" alt="role" />
-<img src="https://img.shields.io/github/followers/hubtheocoelho?label=Followers&style=flat-square" alt="followers" />
-<img src="https://img.shields.io/badge/QAC-spec-verified-brightgreen?style=flat-square" alt="qac" />
-
-</div>
----
-
 Projeto e construo infraestrutura para agentes de IA — protocolos, orquestração e ferramental que permitem que sistemas autônomos escrevam código, publiquem commits e colaborem sem perder rastreabilidade.
 
 **Foco atual**
 
 - **[QAC — Qualified Agent Commits](https://github.com/hubtheocoelho/qac-spec)** — especificação de mensagem de commit que qualifica cada commit com um schema fixo de quatro trailers (`Agent`, `Mode`, `What`, `Why`). Autorada para tornar repositórios produzidos por agentes interoperáveis entre times, ferramentas e modelos.
-- **[hubtheocoelho.com](https://hubtheocoelho.com)** — site pessoal bilíngue, em construção. Concebido como case-study técnico da spec QAC.
-- **Pesquisa open-source** — `joaju` (orquestração de agentes), `tekoha` (indexação semântica), `yande` (benchmark de LLMs), `nexus-fs`.
+- **[hubtheocoelho.com](https://hubtheocoelho.com)** — site pessoal, em construção.
 
 ---
 
 ## Em destaque
+### QAC - Qualified Agent Commits
 
 <a href="https://github.com/hubtheocoelho/qac-spec">
   <img src="https://img.shields.io/github/stars/hubtheocoelho/qac-spec?style=for-the-badge&logo=github&labelColor=0d1117&color=30363d" alt="stars" />
@@ -86,11 +79,6 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 <summary><b>read in english</b></summary>
 
 <br>
-
-```bash
-$ whoami
-theo coêlho — ai engineer
-```
 
 I design and build infrastructure for AI agents — protocols, orchestration, and tooling that let autonomous systems write code, ship commits, and collaborate without losing traceability.
 
