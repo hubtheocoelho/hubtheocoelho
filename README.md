@@ -44,7 +44,16 @@ Projeto e construo infraestrutura para agentes de IA — protocolos, orquestraç
 ## últimas issues abertas
 
 <!-- ISSUES:START -->
-_atualizando..._
+- [`kirodotdev/Kiro#7803`](https://github.com/kirodotdev/Kiro/issues/7803) — [CLI] User-initiated tool use cancellation treated as recoverable failure - agent retries persistently across topic changes `open`
+- [`kirodotdev/Kiro#7792`](https://github.com/kirodotdev/Kiro/issues/7792) — [CLI] System prompt <default_to_action> directive overrides agent prompt constraints - no precedence hierarchy between prompt layers `open`
+- [`kirodotdev/Kiro#7758`](https://github.com/kirodotdev/Kiro/issues/7758) — Propagate power steering context to subagents - subagents should receive POWER.md and steering files from active powers `open`
+- [`kirodotdev/Kiro#7757`](https://github.com/kirodotdev/Kiro/issues/7757) — On-demand power activation - allow agents and subagents to invoke powers explicitly `open`
+- [`kirodotdev/Kiro#7756`](https://github.com/kirodotdev/Kiro/issues/7756) — Inter-power communication - enable data passing and composition between active powers `open`
+- [`kirodotdev/Kiro#7755`](https://github.com/kirodotdev/Kiro/issues/7755) — Hooks should trigger in subagents - governance must be uniform across all agent types `open`
+- [`kirodotdev/Kiro#7754`](https://github.com/kirodotdev/Kiro/issues/7754) — Granular tool classification in powers - declare read/write permissions for MCP tools `open`
+- [`kirodotdev/Kiro#7753`](https://github.com/kirodotdev/Kiro/issues/7753) — Explicit parallel activation of multiple powers - enable concurrent power usage by invocation `open`
+- [`kirodotdev/Kiro#7751`](https://github.com/kirodotdev/Kiro/issues/7751) — Context-aware power activation - semantic intent matching beyond literal keywords `open`
+- [`kirodotdev/Kiro#7511`](https://github.com/kirodotdev/Kiro/issues/7511) — Agent start instruction - agent-initiated response on session start `open`
 <!-- ISSUES:END -->
 
 <sub>atualizado automaticamente a cada 6h — ver <a href=".github/workflows/update-readme.yml"><code>update-readme.yml</code></a></sub>
